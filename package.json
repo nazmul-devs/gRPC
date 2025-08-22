@@ -8,5 +8,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "google-protobuf": "^4.0.0"
+  },
+  "devDependencies": {
+    "grpc-tools": "^1.13.0"
+  }
 }
